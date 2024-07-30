@@ -1,3 +1,4 @@
 storage/
 docker-compose.dev.yml
 *.txt
+template.sql
